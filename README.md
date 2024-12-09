@@ -42,10 +42,7 @@ The objective of this lab was to automate the creation of user accounts in Activ
 - **PowerShell**: For scripting and automating the creation of user accounts in Active Directory.
 - **Windows PowerShell ISE**: Integrated Scripting Environment used to write, test, and run PowerShell scripts.
 - **Active Directory**: For managing users, groups, and organizational units.
-- **VirtualBox** (if applicable): For virtual machine setup and management (mentioned in your previous lab objective).
 - **Windows Server 2019**: The operating system used for the Active Directory environment.
-- **Text Editor**: To create and manage the `names.txt` file containing user information.
-- **Command Prompt**: For enabling script execution policies and changing directories.
 
 ## Steps
 
